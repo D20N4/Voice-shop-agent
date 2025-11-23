@@ -1,0 +1,15 @@
+# Security (NEVER upload these)
+.env
+
+# Python junk
+__pycache__/
+venv/
+*.pyc
+
+# Node.js junk (Heavy folders)
+node_modules/
+dist/
+
+# Generated Receipts
+receipts/
+*.pdf
