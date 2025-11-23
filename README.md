@@ -1,3 +1,9 @@
+<img width="1919" height="1079" alt="Screenshot 2025-11-23 120146" src="https://github.com/user-attachments/assets/4522e90a-8389-42bd-bb8c-62821a226655" />
+<img width="1919" height="920" alt="Screenshot 2025-11-23 120107" src="https://github.com/user-attachments/assets/0909d840-a61f-4d9b-9537-14977a017483" />
+<img width="1919" height="928" alt="Screenshot 2025-11-23 120043" src="https://github.com/user-attachments/assets/ab4e46d4-c484-4315-9344-f8af43c9e3e9" />
+<img width="1919" height="926" alt="Screenshot 2025-11-23 120011" src="https://github.com/user-attachments/assets/f60f858b-66b9-410a-a58c-2b371d0641e7" />
+<img width="1917" height="932" alt="Screenshot 2025-11-23 115958" src="https://github.com/user-attachments/assets/8137758b-4e95-48ab-aa17-c93e7cf62217" />
+<img width="1919" height="905" alt="Screenshot 2025-11-23 115947" src="https://github.com/user-attachments/assets/9c241852-177d-485c-9850-cbcff7593170" />
 # 🛒 Voice-Activated Retail Agent (AgentOne)
 
 A "Hands-Free" operating system for retail shops designed to handle billing, inventory management, and customer ledgers (Khata) using natural voice commands.
